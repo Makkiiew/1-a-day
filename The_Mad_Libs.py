@@ -1,2 +1,5 @@
-noun = input()
-print('Enter a noun', noun)
+noun = input('Enter a noun ')
+verb = input('Enter a verb ')
+adjective = input('Enter an adjective ')
+number = input('Enter a number ')
+print(f'The {adjective} coder decided to {verb}{number}{noun}')
