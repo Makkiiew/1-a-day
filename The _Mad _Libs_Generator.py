@@ -1,0 +1,5 @@
+noun = input()
+verb = input()
+adjective = input()
+number = input()
+print('Enter a noun ', noun)
